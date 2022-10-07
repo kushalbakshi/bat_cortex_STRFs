@@ -1,5 +1,9 @@
 # Generate STRFs from spike-sorted data
 
+### Getting started
++ Download all the files in this directory.
++ Open `sorted_STRFs.m` and update all the file paths to your local machine
+
 ### Navigating this directory
 
 + The main MATLAB script that imports data, calls nested functions, and vizualizes/saves the data is `sorted_STRFs.m`
